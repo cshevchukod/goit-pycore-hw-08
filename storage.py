@@ -1,5 +1,5 @@
 import pickle
-from addressbook import AddressBook   # або твоя назва класу
+from address_book import AddressBook   # або твоя назва класу
 
 FILENAME = "addressbook.pkl"
 
